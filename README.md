@@ -6,3 +6,7 @@ WordPress is a great content management system and the variety of themes availab
 Over the course of fifteen lessons you’ll learn how to brand and customize the WordPress Admin, making WordPress a more complete package for your clients and theme buyers.
 
 **Available on Tuts+ August 2015**
+
+#### Source Files Description:
+
+Here you’ll find a simple WordPress theme, used in the course, which demonstrates the various customization techniques we cover.
